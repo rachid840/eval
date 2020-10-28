@@ -1,0 +1,37 @@
+.body{
+    background-color: white;
+    padding: 0px 750px;
+    width: 100px;
+    margin: auto;
+    font-family: Cormorant Garamond  ;
+}
+.logo{
+    float: center;
+    text-align: center;
+}
+.saumon{
+    color: salmon;
+    font-family: Cormorant Garamond ;
+    text-align: center;
+}
+h1{
+    color: #000;
+    font-family: Cormorant Garamond ;
+    text-align: center;
+}
+.p{
+    color: black;
+    text-align: center;
+    font-family: Cormorant Garamond ;
+}
+.img{
+    
+}
+.imgsalle{
+    
+}
+.imgservice{
+ 
+}
+.imgdressage{    
+
